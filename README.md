@@ -76,7 +76,7 @@ The analysis highlights differences in unemployment across Indian regions and be
 ## Project Structure
 
 ```text
-CodeAlpha_UnemploymentAnalysis/
+Unemployment Analysis
 │
 ├── images/
 │   ├── top_5_regions.png
